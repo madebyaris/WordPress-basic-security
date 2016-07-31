@@ -1,2 +1,10 @@
 # WordPress-basic-security
-this is collection of  how to secure your WordPress. it will contain a basic security knowledge.
+-----
+**TABLE OF CONTENT**
+1. Prevent direct Access Wp-admin
+
+-----
+
+### Prevent direct Access Wp-admin
+Some people doesn't care if someone can lookup web login (yoursite/wp-admin)
+
