@@ -12,5 +12,6 @@ Some people doesn't care if someone can lookup their login page, if your site di
 - Rewrite the standard of WordPress login url, you can use this plugin to achive that https://id.wordpress.org/plugins/wps-hide-login/
 - if your site did not need to show the author page, it's best to not show the user information about it, you can disable it with this plugin https://wordpress.org/plugins/disable-author-pages/ note: the dev seem's leave the repo.
 - And the last resort, use a strong password, make an a combination that it's hard to find, and never use a generic password like `1qaz1qaz` or something like that.
+- Disable `xmlrpc` , some of attacker will try to login via xmlrpc, BUT before you disable,  you need to consider if you use something that need xmlrpc, here's the full article and how to disable it https://www.greengeeks.com/tutorials/article/how-to-enable-and-disable-xmlrpc-php-in-wordpress-and-why/
 -----
 ### 2. Use HTTPS
